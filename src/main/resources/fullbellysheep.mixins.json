@@ -4,7 +4,8 @@
   "package": "com.focamacho.fullbellysheep.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "EatGrassGoalMixin"
+    "EatGrassGoalMixin",
+    "AnimalEntityMixin"
   ],
   "client": [
   ],
